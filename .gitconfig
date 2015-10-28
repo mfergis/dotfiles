@@ -2,7 +2,7 @@
 	name = Michelle Fergis
 	email = mfergis@seas.upenn.edu
 [core]
-	editor = {vim}
+	editor = vim
 
 [alias]
     lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
